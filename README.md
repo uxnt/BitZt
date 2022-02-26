@@ -3,7 +3,7 @@
 <h1><img src="docs/assets/images/qi-logo.svg" alt="Logo" width="180" height="180"></h1>
 </a>
 
-### 气 (Qi) lang
+### BitZt Lang（数据中间编程语言）
 
 Qi is a lightweight, fast, and open source Chinese programming language.
 <a href="https://qilang.tk"><strong>qilang.tk »</strong></a>
