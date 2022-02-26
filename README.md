@@ -1,25 +1,21 @@
+<div align="center">
+
+<h1><img src="docs/assets/images/logo.png" alt="Logo" width="180" height="180"></h1>
+
+**气 (Qi) lang**
+
 [![Lines of Code][loc-shield]][loc-url]
 [![License][license-shield]][license-url]
 [![Website][website-shield]][website-url]
 [![Size][size-shield]][size-url]
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/anonymousaaardvark/qi">
-    <img src="docs/assets/images/logo.png" alt="Logo" width="80" height="80">
-  </a>
 
-<h2 align="center">气 (Qi) lang</h3>
+[English](https://github.com/AnonymousAAArdvark/qi/blob/master/README.en.md) • [简体中文](https://github.com/AnonymousAAArdvark/qi/blob/master/README.zh.md)
 
-  <p align="center">
-    Qi is a lightweight, fast, and open source Chinese programming language.
-    <br />
-    <a href="https://qilang.tk"><strong>qilang.tk »</strong></a>
-    <br /><br />
-    English |
-    <a href="https://github.com/AnonymousAAArdvark/qi/blob/master/README.zh.md">中文</a>
-  </p>
+Qi is a lightweight, fast, and open source Chinese programming language.
+<br /><a href="https://qilang.tk"><strong>qilang.tk »</strong></a>
+
 </div>
+
 
 [![Background][background-img]]()
 
