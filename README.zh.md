@@ -6,7 +6,7 @@
 ### 气 (Qi) 语
 
 气是一种轻量级、快速、开源的中文编程语言。
-<a href="https://qilang.tk"><strong>qilang.tk »</strong></a>
+<a href="https://qilang.tk/#/zh-cn/"><strong>qilang.tk/zh-cn »</strong></a>
 
 [![Lines of Code][loc-shield]][loc-url]
 [![License][license-shield]][license-url]
