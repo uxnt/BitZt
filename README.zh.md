@@ -1,25 +1,25 @@
+<div align="center">
+<h2>
+<a href="https://github.com/anonymousaaardvark/qi">
+<img src="docs/assets/images/logo.png" alt="Logo" width="180" height="180">
+</a>
+  
+**气 (Qi) lang**
+
+</h2>
+气是一种轻量级、快速、开源的中文编程语言。
+<br/><a href="https://qilang.tk"><strong>qilang.tk »</strong></a>
+<br/>
+[English](README.md) • [简体中文](README.zh.md)
+
 [![Lines of Code][loc-shield]][loc-url]
 [![License][license-shield]][license-url]
 [![Website][website-shield]][website-url]
 [![Size][size-shield]][size-url]
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/anonymousaaardvark/qi">
-    <img src="docs/assets/images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
-<h2 align="center">气 (Qi) 语</h3>
-
-  <p align="center">
-    气是一种轻量级、快速、开源的中文编程语言。
-    <br />
-    <a href="https://qilang.tk"><strong>qilang.tk »</strong></a>
-    <br /><br />
-    <a href="https://github.com/AnonymousAAArdvark/qi/blob/master/README.md">English</a> |
-    中文
-  </p>
+  
 </div>
+
+
 
 [![Background][background-img]]()
 
