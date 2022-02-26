@@ -1,6 +1,6 @@
 <div align="center">
-  <a href="https://github.com/anonymousaaardvark/qi">
-    <img src="assets/images/logo_transp.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/uxnt/qi">
+    <img src="assets/images/qi-logo.svg" alt="Logo" width="180" height="180">
   </a>
 </div>
 
