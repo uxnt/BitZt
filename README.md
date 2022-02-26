@@ -9,7 +9,7 @@
 [![Website][website-shield]][website-url]
 [![Size][size-shield]][size-url]
 
-[English](https://github.com/AnonymousAAArdvark/qi/blob/master/README.en.md) • [简体中文](https://github.com/AnonymousAAArdvark/qi/blob/master/README.zh.md)
+[English](README.md) • [简体中文](https://github.com/AnonymousAAArdvark/qi/blob/master/README.zh.md)
 
 Qi is a lightweight, fast, and open source Chinese programming language.
 <br /><a href="https://qilang.tk"><strong>qilang.tk »</strong></a>
