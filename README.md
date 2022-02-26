@@ -11,7 +11,7 @@
 Qi is a lightweight, fast, and open source Chinese programming language.
 <br /><a href="https://qilang.tk"><strong>qilang.tk »</strong></a>
 
-[English](README.md) • [简体中文](blob/master/README.zh.md)
+[English](README.md) • [简体中文](README.zh.md)
   
 [![Lines of Code][loc-shield]][loc-url]
 [![License][license-shield]][license-url]
