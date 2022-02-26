@@ -1,6 +1,6 @@
 <div align="center">
 <a href="https://github.com/uxnt/qi">
-<h1><img src="docs/assets/images/logo.png" alt="Logo" width="180" height="180"></h1>
+<h1><img src="docs/assets/images/qi-logo.svg" alt="Logo" width="180" height="180"></h1>
 </a>
 
 ### 气 (Qi) 语
