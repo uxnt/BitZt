@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-<img src="assets/images/qi-logo.svg" alt="logo" width="150" title="Qi programming language."/>
+<img src="assets/images/qi-logo.svg" alt="logo" width="180" title="Qi programming language."/>
 
 # 气 (Qi) lang
 
