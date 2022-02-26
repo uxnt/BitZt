@@ -3,9 +3,9 @@
 <h1><img src="docs/assets/images/qi-logo.svg" alt="Logo" width="180" height="180"></h1>
 </a>
 
-### 气 (Qi) 语
+### BitZt Lang（数据中间编程语言）
 
-气是一种轻量级、快速、开源的中文编程语言。
+数据中间是一种轻量级、快速、开源的中文编程语言。
 <a href="https://qilang.tk/#/zh-cn/"><strong>qilang.tk/zh-cn »</strong></a>
 
 [![Lines of Code][loc-shield]][loc-url]
